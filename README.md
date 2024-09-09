@@ -1,4 +1,16 @@
-## Hi there 👋
+```
+ _______________________________________
+/ Hi! I'm Pnina. I like physics, making \
+\ sourdough, and climbing mountains.    /
+ ---------------------------------------
+  \
+   \   \_\_    _/_/
+    \      \__/
+           (oo)\_______
+           (__)\       )\/\
+               ||----w |
+               ||     ||
+```
 
 <!--
 **psobell/psobell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
